@@ -1,0 +1,40 @@
+body {   
+    background-image: url(/img/white.jpg) ;      
+  background-position: center center;      
+  background-repeat: no-repeat;      
+    background-attachment: fixed;      
+   background-size: cover;      
+   background-color: #464646a9; 
+   width: 100%;
+ }
+ 
+ .info {
+     background-color: rgba(42, 44, 44, 0.89);
+     margin: 40px auto ;
+     height: 50%;
+     width: 55%;
+     color: rgb(219, 219, 219);
+     font-size: 1.3em;
+
+ }
+ .info p{
+    text-align: justify;
+    margin: 0px auto 50px ;
+    width: 90%;
+    text-indent: 50px;
+ }
+
+ h2{
+     text-decoration: underline;
+     text-align: center;
+     margin:50px ;
+     font-size: 1.4em;
+ }
+ ul{
+     list-style-type: decimal;
+     margin-left: 40px;
+ }
+
+ ul li{
+    margin: 0px auto 20px ;
+ }
